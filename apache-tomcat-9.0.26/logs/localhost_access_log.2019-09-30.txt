@@ -1,0 +1,2 @@
+127.0.0.1 - - [30/Sep/2019:02:30:45 -0700] "GET / HTTP/1.1" 200 11216
+0:0:0:0:0:0:0:1 - - [30/Sep/2019:02:30:46 -0700] "GET /AvaWeb/WEB-INF/classes/external/TicketMasterAPI.java HTTP/1.1" 404 1047
